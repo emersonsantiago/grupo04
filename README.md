@@ -2,8 +2,8 @@
 Especialização em Testes Ágeis - CESAR SCHOOL
 
 **Grupo:**
-Avner Anjos
-Catarine Aguiar
-Eliza Oliveira
-Emerson Santiago
-Victor Mendes
+Avner Anjos,
+Catarine Aguiar,
+Eliza Oliveira,
+Emerson Santiago,
+Victor Mendes.
